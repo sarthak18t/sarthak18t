@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Tailor</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="[https://www.lambdatest.com/resources/images/news24.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1_JnsdWcp4l-uaurq40_dV&ust=1683109583477000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDRtvi11v4CFQAAAAAdAAAAABAq)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak18t&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak18t" /> </p>
 
 - 🌱 I’m currently learning **NodeJS**
